@@ -1,3 +1,4 @@
+Summary:
 SejevaCakeBoutique is a comprehensive app that allows users to browse and search for various assortments of couture cakes and baked goods the bakery has to offer.
 The app utilizes fragments and RecyclerViews to display lists of cake items, a database to store and retrieve user information as well as custom adapters and hash maps to switch data between each fragment.
 With the SejevaCakeBoutique app, registered users shall always have full access to a wide array of custom couture cakes. Unfortunately, due to time constraints, 
